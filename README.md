@@ -10,4 +10,4 @@
 
 - <ins>Recent</ins>: Machine learning in Python (scikit-learn, imblearn). Classification modeling (LR, RF, k-NN, XGB), feature engineering and grid search tuning for music popularity prediction. Addressed class imbalance (SMOTE) and assessed feature importance for optimization. Improved accuracy from ~30% to 86%; includes exploratory data analysis and data visualization (seaborn, mlxtend).
 
-<img src="ethan.gif" width="100%" height="100%"/>
+<img src="ethan.gif" width="100%" style="border-radius: 12px;" />
