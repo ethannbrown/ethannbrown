@@ -6,7 +6,7 @@
 
 - As a classically-trained concert pianist, I bring a deep sensitivity to structure, detail, and pattern recognition, which I've carried into applied work in predictive modeling, algorithmic auditing, and economic research.
 
-- I’m passionate about utilizing data to solve complex across fields including data science, financial analysis, and business intelligence. I'm currently looking for opportunities to continue developing these skills in fast-paced, real-world environments. Feel free to reach out through my contacts to the left!
+- I’m passionate about utilizing data to solve complex across fields including data science, financial analysis, and business intelligence. I'm currently looking for opportunities to continue developing these skills in fast-paced, real-world environments. ← Feel free to reach out through my contacts to the left!
 
 - <ins>Recent</ins>: Machine learning in Python (scikit-learn, imblearn). Classification modeling (LR, RF, k-NN, XGB), feature engineering and grid search tuning for music popularity prediction. Addressed class imbalance (SMOTE) and assessed feature importance for optimization. Improved accuracy from ~30% to 86%; includes exploratory data analysis and data visualization (seaborn, mlxtend).
 
