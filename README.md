@@ -8,7 +8,7 @@
 
 - I’m passionate about utilizing data to solve complex across fields including data science, financial analysis, and business intelligence. I'm currently looking for opportunities to continue developing these skills in fast-paced, real-world environments. ← Feel free to reach out through my contacts to the left!
 
-- <ins>Recent</ins>: Machine learning in Python (scikit-learn, imblearn). Classification modeling (LR, RF, k-NN, XGB), feature engineering and grid search tuning for music popularity prediction. Addressed class imbalance (SMOTE) and assessed feature importance for optimization. Improved accuracy from ~30% to 83%; includes exploratory data analysis and data visualization (seaborn, mlxtend).
+- <ins>Recent</ins>: Machine learning in Python (scikit-learn, imblearn). Classification modeling (LR, RF, k-NN, XGB), feature engineering and grid search tuning for music popularity prediction. Addressed class imbalance (SMOTE) and assessed feature importance for optimization. Includes exploratory data analysis and data visualization (seaborn, Matplotlib).
 
 <p align="center">
   <kbd> <img alt="me" src="ethan.gif" width="100%" height="auto" /> </kbd>
