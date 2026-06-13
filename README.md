@@ -1,4 +1,4 @@
-## Ethan Brown, Aspiring Data Analyst
+## Ethan Brown, Masters (3+1) Candidate, Data Science & AI
 
 - Rising fourth-year at Rutgers University–New Brunswick. Earned B.S. Data Science, B.A. Economics in three years, now a Masters candidate concentrating in Data Science & AI (accelerated 3+1 track).
 
